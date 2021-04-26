@@ -80,7 +80,7 @@ export default {
   }
 
   &__add {
-    @apply text-mariner text-white;
+    @apply text-mariner bg-white;
     border-radius: 25px;
     cursor: pointer;
     position: absolute;
